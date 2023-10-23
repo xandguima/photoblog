@@ -18,7 +18,7 @@ Projeto exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologi
 <br>
 
 <p align="center">
-  <img alt="Photoblog" src="./img/preview.jpg" width="100%">
+  <img alt="Photoblog" src="./img/previewCorrect.jpg"" width="100%">
 </p>
 
 ## 🚀 Tecnologias
